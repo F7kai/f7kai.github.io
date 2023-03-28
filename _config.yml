@@ -1,7 +1,7 @@
 # Site settings
 title: Bubble Soda
 SEOTitle: 金角湾会有枫叶吗或者是波子汽水 | Bubble Soda
-header-img: https://i.postimg.cc/MKr43NTZ/RE4wHgi.jpg
+header-img: img/home-bg.jpg
 email: fengqinkai@foxmail.com
 description: "因为你说话时身体微微前倾"
 keyword: #"黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 
+ga_domain: 
 
 # Sidebar settings
 sidebar: false # whether or not using Sidebar.
