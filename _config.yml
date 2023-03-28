@@ -1,7 +1,7 @@
 # Site settings
 title: Bubble Soda
 SEOTitle: 金角湾会有枫叶吗或者是波子汽水 | Bubble Soda
-header-img: img/home-bg.jpg
+header-img: https://i.postimg.cc/MKr43NTZ/RE4wHgi.jpg
 email: fengqinkai@foxmail.com
 description: "因为你说话时身体微微前倾"
 keyword: #"黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: false
+zhihu_username: false
+github_username: false
+twitter_username: false
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: false # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "智慧的信徒"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
