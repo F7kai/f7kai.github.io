@@ -19,7 +19,14 @@
         </div>
     </div>
 </footer>
-
+<!--APlayer-->
+<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+<meting-js server="netease" type="playlist" id="422220233" fixed="true"></meting-js>
 
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
@@ -115,15 +122,6 @@
         if ($nav) FastClick.attach($nav);
     })
 </script>
-
-<!--APlayer-->
-<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
-<meting-js server="netease" type="playlist" id="422220233" fixed="true"></meting-js>
 
 <!-- Google Analytics -->
 {% if site.ga_track_id %}
